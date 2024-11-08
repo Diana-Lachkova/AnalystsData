@@ -1,2 +1,2 @@
 # AnalystsData
-AnalystsData using Power BI
+AnalystsData Data cleaning and Visualization using Power BI
